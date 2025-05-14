@@ -52,8 +52,7 @@ python game.py
 - Earn **points** when enemy cars reset.  
 - If you crash, **press R** to restart or **Q** to quit.  
 
-## 🎥 **Screenshots**  
-_(Add screenshots here showing gameplay)_  
+
 
 ## 🚀 **Future Enhancements**  
 🔹 **Sound Effects & Music** – Engine sounds, collision effects, race soundtrack.  
@@ -72,7 +71,7 @@ This project is licensed under the **MIT License** – You are free to modify an
 
 
 
-
+## 🎥 **Screenshots**  
 
 
 ![Screenshot 2025-05-14 111543](https://github.com/user-attachments/assets/1897a66f-ae4f-4324-a227-15706fba81a2)
