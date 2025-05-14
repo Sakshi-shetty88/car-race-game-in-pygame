@@ -1,7 +1,5 @@
 # car-race-game-in-pygame
-Sure! Here’s a **README.md** file content for your **Python Car Racing Game** repository on GitHub.  
 
----
 
 # 🚗 **Rally Fury Style Racing Game**  
 
@@ -70,10 +68,7 @@ _(Add screenshots here showing gameplay)_
 ## 📜 **License**  
 This project is licensed under the **MIT License** – You are free to modify and distribute it.  
 
----
-
-This **README.md** file will help document your GitHub repository **clearly** and **professionally**. 🚀🔥  
-Let me know if you need modifications!  
+ 
 
 
 
@@ -81,4 +76,18 @@ Let me know if you need modifications!
 
 
 ![Screenshot 2025-05-14 111543](https://github.com/user-attachments/assets/1897a66f-ae4f-4324-a227-15706fba81a2)
+
+
+
+![WhatsApp Image 2025-05-14 at 11 58 04_18bec8ae](https://github.com/user-attachments/assets/f2c7d9f3-8556-4c24-a528-f0b5bbd1395d)
+
+
+
+![WhatsApp Image 2025-05-14 at 11 58 05_0ac26bcb](https://github.com/user-attachments/assets/30735b10-a939-4da4-8a66-7e92ebb66449)
+
+
+
+
+
+
 
